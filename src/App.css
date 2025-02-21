@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.buton{
+  padding-inline: 10;
+}
+
+.delete{
+  color: "red";
+   padding-left: 10;
+    cursor: "pointer"
+}
